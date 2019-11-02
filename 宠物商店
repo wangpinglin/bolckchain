@@ -35,7 +35,7 @@ Truffle集成了一个开发者控制台，可用来生成一个开发链用来�
 Solidity是编译型语言，需要把可读的Solidity代码编译为EVM字节码才能运行。
 dapp的根目录pet-shop-tutorial下，
 > truffle compile
-输出
+输出 
 Compiling ./contracts/Adoption.sol...Writing artifacts to ./build/contracts
 有些时候可能会打印警告，例如：
 /C/Users/yulxue/vsProiects/Blockchain/petshop/contracts/Migrations.sol:11:3: Warning: No visibility specified. Defaulting to "public".
